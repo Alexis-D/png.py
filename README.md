@@ -4,7 +4,7 @@
 
 This image was encoded with png.py.
 
-![Encoded with png.py](hello.png)
+![Encoded with png.py](https://github.com/Alexis-D/png.py/raw/master/hello.png)
 
 ## Features
 
